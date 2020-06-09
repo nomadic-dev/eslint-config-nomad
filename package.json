@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-nomad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nomadic-dev/eslint-config-nomad.git",
+  "author": "Sean Stephens <sean.stephens@carvana.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-react-app": "^5.2.1"
+  }
+}
